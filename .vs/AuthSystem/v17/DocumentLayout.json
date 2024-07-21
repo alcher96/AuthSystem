@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alche\\source\\repos\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|c:\\users\\alche\\source\\repos\\authsystem\\authsystem\\migrations\\20240721142315_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12952D3F-C9FD-44A5-9E87-635203368AFA}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\migrations\\20240721142315_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T14:20:33.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:10:05.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:03:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-21T13:41:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:35:54.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:33:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:27:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T13:13:59.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240721142315_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Migrations\\20240721142315_Initial Create.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240721142315_Initial Create.cs",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Migrations\\20240721142315_Initial Create.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240721142315_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:23:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:21:09.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:15:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\alche\\source\\repos\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-21T13:13:30.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
